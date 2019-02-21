@@ -1,0 +1,11 @@
+a=7
+b=6
+c=3
+d=2
+e=4
+a+a*(b-c)+(b-c)*d
+aabc-*+bc-d*+
+++a*a-bc*-bcd
+(b*e)/c+d*(a-e)
+be*c/dae-*+
++/*bec*d-ae

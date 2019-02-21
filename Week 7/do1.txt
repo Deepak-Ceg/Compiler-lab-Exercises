@@ -1,0 +1,5 @@
+do {
+do {
+   statement1;
+}while (a<2);
+}while (b<4);

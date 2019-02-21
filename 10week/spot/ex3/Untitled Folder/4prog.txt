@@ -1,0 +1,1 @@
+init; while(condn){ init; while(condn){ stmt; incr;} incr;}

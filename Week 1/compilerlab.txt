@@ -1,0 +1,5 @@
+csh 
+cs
+
+
+shared ip : 10.5.10.239

@@ -1,0 +1,3 @@
+for(init;condn;incr){ for(init;condn;incr){ stmt; } }
+
+

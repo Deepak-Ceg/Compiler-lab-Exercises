@@ -1,0 +1,4 @@
+int a,b;
+float c,d;
+char e;
+e = c;

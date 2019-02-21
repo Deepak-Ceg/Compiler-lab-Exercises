@@ -1,0 +1,2 @@
+print ( 3 + x *2)
+def f(x): return 3
