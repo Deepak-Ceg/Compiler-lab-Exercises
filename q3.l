@@ -12,4 +12,3 @@ yyin=fopen("in3.txt","r");
 yylex();
 
 }
-

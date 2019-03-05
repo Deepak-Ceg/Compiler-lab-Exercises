@@ -11,7 +11,7 @@ int sym[26];
 %}
 %%
 program:
-	program statement '\n'  
+	program statement '\n'
 	|
 	;
 

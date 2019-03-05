@@ -1,5 +1,4 @@
 %%
-"/* "[a-zA-Z0-9]+" */" {printf("\nMATCHED:%s\n",yytext);}
 "/* ".*" */" {printf("\nMATCHED:%s\n",yytext);
 }
 %%
@@ -9,4 +8,3 @@ yyin=fopen("input44.txt","r");
 yylex();
 
 }
-

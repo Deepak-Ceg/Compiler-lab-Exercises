@@ -16,7 +16,7 @@ int idcount=0, opcount=0, pre=0,post=0,assi=0;
 %%
 
 int main()
-{ 	 	 	
+{
 	yylex();
 	printf("\nIdentifier %d",idcount);
 	printf("\nOperator %d",opcount);
