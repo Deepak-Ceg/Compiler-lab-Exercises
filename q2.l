@@ -8,7 +8,7 @@ keyword "printf"|"def"|"return"|"for"|"while"
 int keycount=0,splcount=0,digit=0,idcount=0,opcount=0;
 %}
 %%
-{letter} {idcount++;printf("identifier=%s\n",yytext);}
+{letters} {idcount++;printf("identifier=%s\n",yytext);}
 
 {keyword} {keycount++;printf("keyword=%s\n",yytext);}
 

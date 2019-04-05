@@ -36,7 +36,7 @@ expr :	| expr '+' expr	{$$=$1+$3; }
 yylex()
 {
 int c;
-while((c=getchar())==' ')
+while((c=getchar())==' ');
 if(islower(c)){
 yylval=c-'a';
 return (LETTER);
